@@ -1,0 +1,13 @@
+# Données collectées et base générée (non publiées)
+nba_raw/
+*.duckdb
+*.duckdb.wal
+schema.txt
+
+# Python
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+.streamlit/secrets.toml
