@@ -2,8 +2,6 @@
 
 Un pipeline de données complet, de la collecte à l'IA générative : les statistiques NBA de 2023-24 à 2025-26 sont collectées, structurées dans une base DuckDB, puis rendues accessibles par un agent conversationnel. On lui pose une question en français, il écrit ses propres requêtes SQL, vérifie ses résultats et répond.
 
-> *Ajouter ici une capture d'écran ou un GIF de l'application.*
-
 Exemples de questions :
 - « Qui a le meilleur pourcentage à 3 points en 2025-26 ? »
 - « Combien de points Luka Doncic a-t-il marqués au maximum dans un match cette saison ? »
